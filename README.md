@@ -1,7 +1,7 @@
 # Predicting Football Player Market Values Using LSTM Neural Networks
 This repository contains an LSTM-based model designed to predict football players' market values using historical performance data and relevant variables.
 
-<img src = "https://github.com/SejalKankriya/football-market-value-forecast/assets/43418191/9cdc1c88-4c85-4c22-9db5-e185f66d1796" width=50% height=40%> 
+<img src = "https://github.com/YashK-27/football_market_value_forecast/assets/43418191/9cdc1c88-4c85-4c22-9db5-e185f66d1796" width=50% height=40%> 
 
 ## Structure
 
